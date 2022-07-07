@@ -1,5 +1,4 @@
 # PI-Encryption
-#### Prerequisites: Install Wine (for Linux)
 A editable encryption for the Raspberry Pi!  Use the '1' command to encrypt a message and the '2' command to decrypt a message
 Currently Linux is only for file decryption (sorry Windows users)
 ### How to use:
